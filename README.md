@@ -12,6 +12,8 @@
 
 ## Supporting Vue.js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Mattlk13/vue.svg)](https://greenkeeper.io/)
+
 Vue.js is an MIT-licensed open source project. Its ongoing development is made possible thanks to the support by these awesome [backers](https://github.com/vuejs/vue/blob/dev/BACKERS.md). If you'd like to join them, check out [Vue.js' Patreon campaign](https://www.patreon.com/evanyou).
 
 <p align="center">
